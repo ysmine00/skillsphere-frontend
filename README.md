@@ -183,7 +183,3 @@ Only `@aui.ma` email addresses are accepted at registration, enforced on both th
 
 - [skillsphere-backend](https://github.com/ysmine00/skillsphere-backend) — Node.js / Express / PostgreSQL API
 
----
-
-**Developer:** Yasmine Kouch  
-**GitHub:** [@ysmine00](https://github.com/ysmine00)
